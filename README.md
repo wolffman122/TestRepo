@@ -7,3 +7,6 @@
 - master (main branch where wer are going ot merge all our features)
     - features
 - qa (perform tests before merging into staging)
+
+
+Had to do a HF1 fix here
